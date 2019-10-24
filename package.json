@@ -18,6 +18,10 @@
   "homepage": "https://github.com/EurostarDigital/graduate_exercise#readme",
   "dependencies": {
     "express": "4.16.4",
-    "nodemon": "1.19.0"
+    "nodemon": "1.19.0",
+    "react": "^16.8.4",
+    "react-scripts": "2.1.8",
+    "react-table": "^6.9.2",
+    "react-dom": "^16.8.4"
   }
 }
