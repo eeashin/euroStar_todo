@@ -1,4 +1,4 @@
-# Graduate Exercise
+# Todo List Exercise
 
 ## Setup
 
